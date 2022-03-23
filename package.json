@@ -1,6 +1,6 @@
 {
   "name": "photo-port",
-  "homepage": "http://sarabarnett.github.io/photo-port",
+  "homepage": "http://Sarabarnett.github.io/photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-phase -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
